@@ -82,6 +82,8 @@ book-library-system/
 npm install
 npm run dev
 
+```
+
 ---
 
 
@@ -97,7 +99,7 @@ npm run dev
 
 ---
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Vaishnavi Astha Gupta
 Mini Project – Book Library System
 B.Tech IT, Final Year
